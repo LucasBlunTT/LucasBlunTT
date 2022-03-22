@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Analista de Suporte.
 - 🌱 Estou estudando JavaScript.
-- ⚡ Amo jogar futebol, aliás sou goleiro. Também amo cantar e tocar violão 🎶🎸
+- ⚡ Amo jogar futebol, aliás sou goleiro.
 
 <div style="display: inline_block"
   <a href="https://github.com/LucasBlunTT">
