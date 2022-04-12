@@ -1,7 +1,7 @@
 ### Opaa! Eu sou o Lucas da Silva 👋
 
 - 🔭 Hoje trabalho como Analista de Suporte.
-- 🌱 Estou estudando JavaScript.
+- 🥰 Estou estudando bastante para realizar minha transição de carreira para Dev Front End
 - ⚡ Amo jogar futebol, aliás sou goleiro.
 
 <div style="display: inline_block"><br>
