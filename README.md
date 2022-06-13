@@ -7,11 +7,9 @@
 ### Opaa! Eu sou o Lucas da Silva 👋
 
 <div style="display: inline_block">
-  
  🔭 Hoje trabalho como Analista de Suporte.<br>
  🥰 Estou estudando bastante para realizar minha transição de carreira para Dev Front End<br>
- ⚡ Amo jogar futebol, aliás sou goleiro.<br>
-    
+ ⚡ Amo jogar futebol, aliás sou goleiro.
 </div>
   
 <div style="display: inline_block"><br>
