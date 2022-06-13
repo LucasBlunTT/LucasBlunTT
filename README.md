@@ -6,9 +6,14 @@
 
 ### Opaa! Eu sou o Lucas da Silva 👋
 
-- 🔭 Hoje trabalho como Analista de Suporte.
-- 🥰 Estou estudando bastante para realizar minha transição de carreira para Dev Front End
-- ⚡ Amo jogar futebol, aliás sou goleiro.
+<div style="display: inline_block">
+  
+ 🔭 Hoje trabalho como Analista de Suporte.<br>
+ 🥰 Estou estudando bastante para realizar minha transição de carreira para Dev Front End<br>
+ ⚡ Amo jogar futebol, aliás sou goleiro.<br>
+    
+</div>
+  
 <div style="display: inline_block"><br>
   <h3>Tecnologias 🖤</h3>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
