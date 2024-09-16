@@ -1,4 +1,5 @@
 <img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
+![flatage](https://github.com/user-attachments/assets/ab007e23-88bc-40da-8f64-c2b1cb73c89c)
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasBlunTT&theme=radical"/> 
