@@ -13,6 +13,7 @@
   <img align="center" alt="Lucas-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin-right: 10px;">
   <img align="center" alt="Lucas-Next" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="margin-right: 10px;">
   <img align="center" alt="Lucas-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right: 10px;">
+  <img align="center" alt="Lucas-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="margin-right: 10px;">
   <img align="center" alt="Lucas-HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin-right: 10px;">
   <img align="center" alt="Lucas-CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin-right: 10px;">
   
@@ -33,6 +34,8 @@
   <img align="center" alt="Lucas-NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="margin-right: 10px;">
   <img align="center" alt="Lucas-Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="margin-right: 10px;">
   <img align="center" alt="Lucas-TypeORM" height="40" width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" style="margin-right: 10px;">
+  <img align="center" alt="Lucas-JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin-right: 10px;">
+  <img align="center" alt="Lucas-TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="margin-right: 10px;">
 
   <br><br>
   
