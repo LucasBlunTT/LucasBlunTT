@@ -43,8 +43,7 @@
   <h3>📦 Libs e Ferramentas</h3>
   <img align="center" alt="Lucas-Gulp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" style="margin-right: 10px;">
   <img align="center" alt="Lucas-Webpack" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="margin-right: 10px;">
-  <img align="center" alt="Lucas-AOS" height="40" width="40" src="https://raw.githubusercontent.com/michalsnik/aos/master/logo/aos.svg" style="margin-right: 10px;">
-   <img align="center" alt="Lucas-SwiperJS" height="40" width="40" src="https://swiperjs.com/images/swiper-logo.svg" style="margin-right: 10px;">
+  <img align="center" alt="Lucas-SwiperJS" height="40" width="40" src="https://swiperjs.com/images/swiper-logo.svg" style="margin-right: 10px;">
 
   <br><br>
   
