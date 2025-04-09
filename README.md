@@ -1,4 +1,13 @@
-<img align="leaft" alt="Gif" height="500" width="1090" style="border-radius:50px;"  src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv">
+<div align="center">
+  <img align="center" alt="Gif" height="500" width="1090" style="border-radius:50px;" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv">
+
+  <h2>👋 Olá, eu sou o Lucas da Silva!</h2>
+
+  <p align="center" style="max-width: 800px;">
+    Sou um Desenvolvedor Full Stack com mais de <strong>7 anos de experiência</strong> na área de tecnologia, apaixonado por criar soluções digitais eficientes, modernas e com foco na melhor experiência para o usuário.<br><br>
+  </p>
+</div>
+
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasBlunTT&theme=radical"/> 
