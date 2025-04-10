@@ -4,7 +4,9 @@
   <h2>👋 Olá, eu sou o Lucas da Silva!</h2>
 
   <p align="center" style="max-width: 800px;">
-    Sou um Desenvolvedor Full Stack com mais de <strong>7 anos de experiência</strong> na área de tecnologia, apaixonado por criar soluções digitais eficientes, modernas e com foco na melhor experiência para o usuário.<br><br>
+   Sou Desenvolvedor Full Stack com mais de 7 anos de experiência em tecnologia, especializado na criação de aplicações web e mobile modernas, performáticas e com foco na melhor experiência do usuário. Tenho domínio de tecnologias como React, React Native, Next.js, TypeScript, Node.js, Express, TypeORM, e bancos de dados relacionais.
+
+Busco sempre escrever código limpo e reutilizável, aplicando boas práticas de arquitetura, metodologias ágeis e foco total na entrega de soluções de alta qualidade.<br><br>
   </p>
 </div>
 
